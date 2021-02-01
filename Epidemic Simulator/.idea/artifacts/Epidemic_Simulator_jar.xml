@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Epidemic Simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Epidemic_Simulator_jar</output-path>
+    <root id="archive" name="Epidemic Simulator.jar">
+      <element id="module-output" name="Epidemic Simulator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jfreechart-1.5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
