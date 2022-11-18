@@ -14,12 +14,19 @@
 
 ## Running Program UI Example:
   ![1 Initial Frame](https://user-images.githubusercontent.com/32710632/202800004-26b7b106-7526-4955-b847-1ea03a5399c4.png)
+  
   ![2 add one by one](https://user-images.githubusercontent.com/32710632/202800006-98a1f131-7f05-42a1-8497-18d8f78881ab.png)
+  
   ![3 add as bulk](https://user-images.githubusercontent.com/32710632/202800009-2628df8e-22af-4e76-bee3-221904b25b34.png)
+  
   ![4 add indivisuals count](https://user-images.githubusercontent.com/32710632/202800010-bc78e075-2099-48ad-af40-cd1a779beb78.png)
+  
   ![5 statistics and simulator frames](https://user-images.githubusercontent.com/32710632/202800011-cc743a57-c26e-41af-9200-ed2a27a2eba2.png)
+  
   ![6 start button clicked and simulation is running](https://user-images.githubusercontent.com/32710632/202800012-fd700983-061c-4537-b876-2b990eb21545.png)
+  
   ![7 dead counts graph with respect to seconds with 500 indivisuals](https://user-images.githubusercontent.com/32710632/202800016-5b5c7c58-a9ed-4e66-ab53-ee70bb81dc21.png)
+  
   ![8 infected counts with respect to seconds with 500 indivisuals](https://user-images.githubusercontent.com/32710632/202800017-188d7b98-c3fa-431c-9eb9-69b5ffa83262.png)
 
 ## Requirements:
