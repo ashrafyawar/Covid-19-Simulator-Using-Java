@@ -4,3 +4,4 @@
   - PORTFOLIO: https://ashrafyawar.github.io/ashrafyawarwebsite/
   
   
+[Project Report.pdf](https://github.com/ashrafyawar/Covid_19-Simulator-Using-Java/files/10044715/Project.Report.pdf)
