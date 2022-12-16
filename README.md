@@ -31,7 +31,7 @@
 
 ## Requirements:
 
-- Java JDK --> https://www.python.org/downloads/
+- Java JDK --> https://www.oracle.com/java/technologies/downloads/
 
 ## How To Test:
   - Open the project in some IDE (for your convinient) and run Main.java file.
